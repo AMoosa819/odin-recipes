@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    background-color: yellow;
+    display: block;
+    padding: 24px;
+    margin: 8px auto;
+    border: 2px solid red;
+}
+
+.button {
+    background-color: yellow;
+    display: block;
+    margin: 8px auto;
+    padding: 8px;
+    border: 2px solid red;
+}

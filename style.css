@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.recipes {
+    background-color: red;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 8px auto;
+}
+
+li {
+    background-color: white;
+    display: inline-block;
+    margin: 8px auto;
+    padding: 8px;
+    border: 2px solid;
+}
